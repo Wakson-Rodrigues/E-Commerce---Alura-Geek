@@ -1,0 +1,130 @@
+{
+  "produto": [
+    {
+      "name": "boneco yoda",
+      "imageUrl": "assets/boneco yoda.png",
+      "price": "15,00",
+      "id": 1,
+      "description": "boneco yoda"
+    },
+    {
+      "name": "Miniatura darth",
+      "imageUrl": "assets/darth.png",
+      "price": "25,00",
+      "id": 2,
+      "description": "Miniatura darth"
+    },
+    {
+      "name": "Miniatura stormtrooper",
+      "imageUrl": "assets/Miniatura stormtrooper.png",
+      "price": "25,00",
+      "id": 3,
+      "description": "Miniatura stormtrooper"
+    },
+    {
+      "name": "miniatura yoda",
+      "imageUrl": "assets/miniatura yoda.png",
+      "price": "25,00",
+      "id": 4,
+      "description": "miniatura yoda"
+    },
+    {
+      "name": "darth lego",
+      "imageUrl": "assets/darth lego.png",
+      "price": "30,00",
+      "id": 5,
+      "description": "darth lego"
+    },
+    {
+      "name": "Caneca Stormtrooper",
+      "imageUrl": "Caneca Stormtrooper.png",
+      "price": "20,00",
+      "id": 6,
+      "description": "Caneca Stormtrooper"
+    },
+    {
+      "name": "controle xbox",
+      "imageUrl": "assets/controle xbox.png",
+      "price": "220,00",
+      "id": 7,
+      "description": "controle xbox"
+    },
+    {
+      "name": "Controle e Console PS5",
+      "imageUrl": "assets/Controle e Console PS5.png",
+      "price": "4200,00",
+      "id": 8,
+      "description": "Controle e Console PS5"
+    },
+    {
+      "name": "Nintendo.png",
+      "imageUrl": "assets/Nintendo.png",
+      "price": "400,00",
+      "id": 9,
+      "description": "Nintendo.png"
+    },
+    {
+      "name": "Controle nintendo",
+      "imageUrl": "assets/Controle nintendo.png",
+      "price": "650,00",
+      "id": 10,
+      "description": "Controle nintendo"
+    },
+    {
+      "name": "Xbox",
+      "imageUrl": "assets/Xbox.png",
+      "price": "2500,00",
+      "id": 11,
+      "description": "Xbox"
+    },
+    {
+      "name": "Game Boy",
+      "imageUrl": "assets/Game Boy.png",
+      "price": "125,00",
+      "id": 12,
+      "description": "Game Boy"
+    },
+    {
+      "name": "Camisa Atari",
+      "imageUrl": "assets/Camisa Atari.png",
+      "price": "20,00",
+      "id": 13,
+      "description": "Camisa Atari"
+    },
+    {
+      "name": "Camisa SNES",
+      "imageUrl": "assets/Camisa SNES.png",
+      "price": "20,00",
+      "id": 14,
+      "description": "Camisa SNES"
+    },
+    {
+      "name": "Miniatura Sonic",
+      "imageUrl": "assets/Miniatura Sonic.png",
+      "price": "20,00",
+      "id": 15,
+      "description": "Miniatura Sonic"
+    },
+    {
+      "name": "Despertador",
+      "imageUrl": "assets/Despertador.png",
+      "price": "30,00",
+      "id": 16,
+      "description": "Despertador"
+    },
+    {
+      "name": "Oculos Virtual",
+      "imageUrl": "assets/Oculos Virtual.png",
+      "price": "2800,00",
+      "id": 17,
+      "description": "Oculos Virtual"
+    },
+    {
+      "name": "Fantasia Pikachu",
+      "imageUrl": "assets/Fantasia Pikachu.png",
+      "price": "1200,00",
+      "id": 18,
+      "description": "Fantasia Pikachu"
+    }
+     ]
+}
